@@ -9,6 +9,7 @@
 #### 调用
 bankCardAttribution('6217001210024455220')
 
-![](http://i.imgur.com/qbpweAU.png)
 
 ```
+
+![](http://i.imgur.com/qbpweAU.png)
